@@ -43,7 +43,7 @@ Solutions-driven Full Stack Developer with a National Diploma in IT - Software D
 ## 💼 Work Experience
 
 ### **Full Stack Developer**  
-**Company Name** | Aug 2024 - Aug 2025  
+**Moepi Publishing** | Aug 2024 - Aug 2025  
 `Laravel` `JavaScript` `MySQL` `jQuery` `REST API` `Agile`
 - Developed scalable web apps using Laravel (PHP), JavaScript, and MySQL
 - Built responsive front-end interfaces with HTML/CSS/jQuery
